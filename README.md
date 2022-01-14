@@ -10,6 +10,12 @@ My web development responsive portfolio website template in HTML, CSS, SASS & Ja
 
 HTML, CSS, SASS, Javascript
 
+## Google Lighthouse webpage perfomance report 
+
+The full report can be accessed at https://drive.google.com/file/d/1GpZuiq1kHNL3ZTtTU3docmihTcnVBn4h/view?usp=sharing
+
+![portfolio-mayank](https://user-images.githubusercontent.com/87348490/149521620-3d6ec894-a8c6-4269-a9b2-10ba1118deec.png)
+
 ## Lessons Learned
 
 - Using a form endpoint on a static website 
