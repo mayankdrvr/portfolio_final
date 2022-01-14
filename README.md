@@ -4,7 +4,7 @@ My web development responsive portfolio website template in HTML, CSS, SASS & Ja
 
 # Demo
 
-![Uploading portfollio-mayank.gif…]()
+![portfollio-mayank](https://user-images.githubusercontent.com/87348490/149505328-719c9e38-4b56-4bcd-87d3-d73bb8a4ee60.gif)
 
 ## Technologies Used
 
