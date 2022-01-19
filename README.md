@@ -25,7 +25,7 @@ The full report can be accessed at https://drive.google.com/file/d/1GpZuiq1kHNL3
 
 [@mayankdrvr](https://www.github.com/mayankdrvr)
 
-## Run on local system
+## Run on Local System
 
 - Go to Code->Download ZIP to download the .zip file. Just extract the .zip file and open the extracted folder in VS Code editor.
 - Right click on index.html file and click on 'Open with Live Server'
