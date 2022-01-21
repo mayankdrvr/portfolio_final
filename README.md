@@ -3,10 +3,11 @@
 My web development responsive portfolio website template in HTML, CSS, SASS & Javascript. The objective of this project is to build a template to showcase my web development projects. This project is hosted live on https://mayankaroraweb.netlify.app/
 
 Project Specifications-
+- Fully responsive web application using media queries.
 - Displays Home, About, Skills, Projects and Contact sections.
-- Projects section has links to source code, demo and deployed URL.
+- Projects section has information on technologies used and links to source code, demo and deployed URL.
 - Contact section has a form backend to send submitted responses directly to the email inbox of the site administrator.
-- About section has links to various online programming profiles and also linkedin profile.
+- About section has links to various online programming profiles, resume and also linkedin profile.
 
 # Demo
 
